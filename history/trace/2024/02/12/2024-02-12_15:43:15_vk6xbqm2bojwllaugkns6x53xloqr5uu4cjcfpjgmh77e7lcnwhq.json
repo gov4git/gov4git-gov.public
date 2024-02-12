@@ -1,0 +1,1 @@
+{"id":"vk6xbqm2bojwllaugkns6x53xloqr5uu4cjcfpjgmh77e7lcnwhq","stamp":"2024-02-12T15:43:15.211865517Z","payload":{"op":"account_issue","note":"directive from GitHub issue #179","args":{"amount":{"asset":"plural","quantity":1000},"from":"treasury+issue","to":"user:bastinjafari"}}}
